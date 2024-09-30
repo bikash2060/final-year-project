@@ -1,6 +1,5 @@
 # Django stuff:
 db.sqlite3
-*/static/
 
 # Migrations (optional, based on your team's practice)
 */migrations/
